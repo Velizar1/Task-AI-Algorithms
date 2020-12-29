@@ -1,2 +1,3 @@
 # Task-AI-Algorithms
-Popular HW tasks with AI algorithms 
+Popular HW tasks with AI algorithms.
+ 
